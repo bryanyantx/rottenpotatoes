@@ -19,7 +19,15 @@ more_movies = [
   {:title => 'Nomadland', :rating => 'R',
     :release_date => '19-Feb-2021'},
   {:title => 'CODA', :rating => 'PG-13',
-    :release_date => '13-Aug-2021'}
+    :release_date => '13-Aug-2021'},
+  {:title => 'Solaris', :rating => 'PG',
+    :release_date => '5-Feb-1972'},
+  {:title => 'Mulholland Drive', :rating => 'R',
+    :release_date => '16-May-2001'},
+  {:title => 'Jurassic Park', :rating => 'PG-13',
+    :release_date => '9-Jun-1993'},
+  {:title => 'Amadeus', :rating => 'PG',
+    :release_date => '6-Sep-1984'}
 ]
 
 more_movies.each do |movie|
